@@ -16,3 +16,14 @@ Zadanie:
 • wyznaczyć minimalna liczbe plakatów potrzebnych do całkowitego pokrycia ich północnych
 scian,
 • wypisać wynik na standardowe wyjscie.
+Wejscie
+Pierwszy wiersz wejscia zawiera jedna liczbe całkowita n (1 < n < 250 000 ), oznaczajaca
+liczbe budynków stojacych w rzedzie. Kolejne n wierszy zawiera po dwie liczby całkowite di
+i wi (1 < di,wi < 1 000 000 000 ), oddzielone pojedynczym odstepem i oznaczajace długosc
+i wysokosc i-tego budynku w rzedzie.
+5
+1 2
+1 3
+2 2
+2 5
+1 4
